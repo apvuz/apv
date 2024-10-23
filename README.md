@@ -1,2 +1,0 @@
-# apv
-pubg mobile
